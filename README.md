@@ -1,1 +1,0 @@
-# js-redirect4app
